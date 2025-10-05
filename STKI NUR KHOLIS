@@ -1,0 +1,44 @@
+ Latihan Python – Nur Kholis
+
+Repository ini berisi kumpulan latihan dan eksperimen pemrograman Python yang diberikan oleh dosen untuk meningkatkan kemampuan logika, menulis kode, serta memahami konsep dasar pemrograman.
+
+---
+
+ 👨‍💻 Identitas Mahasiswa
+- **Nama:** Nur Kholis  
+- **NIM:** A11.2022.14584  
+- **Program Studi:** Teknik Informatika  
+- **Universitas:** Universitas Dian Nuswantoro (UDINUS)
+
+---
+
+ 📚 Daftar Kegiatan / Folder
+
+| Folder | Deskripsi |
+|--------|------------|
+| `PythonBasic/` | Berisi latihan dasar Python seperti variabel, perulangan, percabangan, dan fungsi. |
+| `textProcessing/` | Berisi latihan pengolahan teks seperti manipulasi string, tokenisasi, dan analisis sederhana. |
+| `minggu3/` | Berisi latihan minggu ke-3, mencakup konsep lanjutan seperti list, dictionary, dan penggunaan modul Python. |
+
+---
+
+ 🎯 Tujuan Pembelajaran
+1. Mampu memahami sintaks dasar Python.  
+2. Mampu menulis kode dengan ejaan dan struktur yang benar.  
+3. Mampu mempraktikkan konsep algoritma dan logika pemrograman.  
+4. Mampu melakukan pengolahan data sederhana dengan Python.  
+
+---
+
+ ⚙️ Tools & Lingkungan Belajar
+- **Editor:** Visual Studio Code / Jupyter Notebook  
+- **Bahasa Pemrograman:** Python 3.x  
+- **Platform:** Windows 10 / Google Colab  
+- **Repository Hosting:** GitHub  
+
+---
+
+ 🚀 Cara Menggunakan
+1. Klik tombol **Code → Download ZIP** atau clone repository ini:  
+   ```bash
+   git clone https://github.com/kholizz/Latihan-Python-NurKholis.git
