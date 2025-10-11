@@ -5,17 +5,16 @@ Repository ini berisi kumpulan latihan dan eksperimen pemrograman Python yang di
 ---
 
  👨‍💻 Identitas Mahasiswa
-- **Nama:** Nur Kholis  
-- **NIM:** A11.2022.14584  
-- **Program Studi:** Teknik Informatika  
-- **Universitas:** Universitas Dian Nuswantoro (UDINUS)
+- Nama: Nur Kholis  
+- NIM: A11.2022.14584  
+- Program Studi:Teknik Informatika  
+- Universitas: Universitas Dian Nuswantoro (UDINUS)
 
 ---
 
  📚 Daftar Kegiatan / Folder
 
-| Folder | Deskripsi |
-|--------|------------|
+
 | `PythonBasic/` | Berisi latihan dasar Python seperti variabel, perulangan, percabangan, dan fungsi. |
 | `textProcessing/` | Berisi latihan pengolahan teks seperti manipulasi string, tokenisasi, dan analisis sederhana. |
 | `minggu3/` | Berisi latihan minggu ke-3, mencakup konsep lanjutan seperti list, dictionary, dan penggunaan modul Python. |
@@ -31,10 +30,10 @@ Repository ini berisi kumpulan latihan dan eksperimen pemrograman Python yang di
 ---
 
  ⚙️ Tools & Lingkungan Belajar
-- **Editor:** Visual Studio Code / Jupyter Notebook  
-- **Bahasa Pemrograman:** Python 3.x  
-- **Platform:** Windows 10 / Google Colab  
-- **Repository Hosting:** GitHub  
+- Editor: Visual Studio Code / Jupyter Notebook  
+- Bahasa Pemrograman: Python 3.x  
+- Platform: Windows 10 / Google Colab  
+- Repository Hosting: GitHub  
 
 ---
 
